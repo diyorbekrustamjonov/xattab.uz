@@ -1,13 +1,8 @@
 import { JobType, PostType, ProfileType, ProjectType, SkillProps } from "@/types";
 import {
-    BiLogoFlutter,
-    BiLogoPython,
     BiLogoGoLang,
-    BiLogoFirebase,
     BiLogoPostgresql,
     BiLogoGit,
-    BiLogoVisualStudio,
-    BiLogoFirefox,
     BiLogoGithub,
     BiLogoInstagram,
     BiLogoLinkedinSquare,
@@ -16,7 +11,6 @@ import {
 } from "react-icons/bi";
 
 import ArchLinuxIcon from '../components/shared/ArchLinuxIcon';
-import CSharpIcon from "../components/shared/CSharpIcon";
 
 export const userProfile: ProfileType = {
     id: "p1",
@@ -91,7 +85,7 @@ export const posts: PostType[] = [
     //     }
 ];
 
-export const images = 9;
+export const images = 3;
 
 export const skills: SkillProps[] = [
     { name: 'JavaScript', icon: BiLogoJavascript, color: '#46D1FD' },
