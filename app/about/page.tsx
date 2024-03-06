@@ -28,27 +28,12 @@ export default function About() {
                 build cool stuff.
               </h1>
               <div className="dark:text-zinc-400 text-zinc-600 leading-relaxed">
-                Hey there! My name is Diyorbek Rustamjonov. I&apos;m currently working at Borda Technology as a Flutter Developer.
+                Hey there! My name is Diyorbek Rustamjonov. I&apos;m currently working at Payme.uz as a Software engineer.
                 <br /><br />
-                I began my coding journey with C#, developing various desktop applications. This led me to explore the Unity Game Engine later in my journey.
+                I began my coding journey with Node.js/Go, developing web services and highload projects. This led me to explore the Unity Game Engine later in my journey.
                 <br /><br />
-                Later, my interest in Python guided me towards web scraping, and I built some useful tools that I use regularly. As I ventured further into the Python ecosystem, I adopted Flask to design backend solutions, providing a robust foundation for my applications.
+                Later, my interest in Python guided me towards web scraping, and I built some useful tools that I use regularly. As I ventured further into the Python ecosystem
                 <br /><br />
-                Wanting to dive into mobile app development, I learned Flutter and have since created a range of apps, including one I&apos;m particularly proud of,&nbsp;
-                <a href="/projects/simple-library" className="dark:text-blue-400 text-blue-500">Simple Library</a>.
-                <br /><br />
-                Now, I&apos;m delving into Go, aiming to work on the backend side of things. My current project is an app named&nbsp;
-                <a href="https://movieparadise.app/" target="_blank" className="dark:text-blue-400 text-blue-500">Movie Paradise</a>.
-                <br /><br />
-                Outside of coding, I&apos;m passionate about Linux and the open-source community. I&apos;m always keen to learn and grow in both programming and Linux. Oh, and I use Arch btw =)
-                <br /><br />
-                <h1 className="text-2xl font-bold">Hobbies</h1>
-                <ul className="list-disc pl-5">
-                  <li className="mb-1">Home Lab</li>
-                  <li className="mb-1">Reading</li>
-                  <li className="mb-1">Calisthenics</li>
-                  <li className="mb-1">Computer Games</li>
-                </ul>
               </div>
             </Slide>
           </div>
