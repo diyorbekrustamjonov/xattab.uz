@@ -14,7 +14,7 @@ const inter = Inter({
 });
 
 const options = {
-  title: "Diyorbek Rustamjonov | Software Developer",
+  title: "Diyorbek Rustamjonov | Software Engineer",
   description: "Diyorbek Rustamjonov is a Software Engineer who is passionate about building cool services and contributing open source communities",
   url: "https://diyorbek.com",
   ogImage: "https://raw.githubusercontent.com/diyorbekrustamjonov/xattab.uz/main/public/images/illustrations/home.png",
