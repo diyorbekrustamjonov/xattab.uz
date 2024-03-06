@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>trash.com</h1>
+<h1>xattab.uz</h1>
 <p>My personal portfolio website</p>
 </div>
 
